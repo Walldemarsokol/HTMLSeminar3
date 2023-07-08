@@ -21,14 +21,13 @@ body {
 }
 
 .header {
-    padding: 39px 39px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 40px;
 }
 
 .header__link {
+    padding: 39px 20px;
     text-decoration: none;
     font-style: normal;
     font-weight: 600;
