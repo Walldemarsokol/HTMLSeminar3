@@ -21,7 +21,7 @@ body {
 }
 
 .header {
-    padding: 39px 0;
+    padding: 39px 39px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,13 +42,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 109px;
 }
 
 .size__main__logo {
     width: 414px;
     height: 415px;
     flex-shrink: 0;
-    gap: 109px;
 }
 
 .title {
